@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/survivor_handgun.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/pistolammo.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/rifleammo.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/bulletTrace.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/prop.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/healthBar.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/crosshair.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/regularZombie.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/scoutZombie.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/zombieTankc.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/survivor_rifle.png</File>
+    <File>C:/Users/arveo/Documents/Visual Studio 2015/Projects/BlockHead/Content/survivor-idle_handgun_0.png</File>
+  </SourceFiles>
+</SourceFileCollection>
